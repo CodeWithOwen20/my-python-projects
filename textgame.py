@@ -142,7 +142,7 @@ def mainmenu(username):
 
         elif mainuserinput == 2:
             print("--------------------")
-            print("\n---------DEVELOPED BY: STRIDER---------")
+            print("\n---------DEVELOPED BY: STRIDER / OWEN---------")
             print("This is really just an experimental game. Kinda my first project lol. Ill add")
             print("things when i need to:)\n")
             print("--------------------")
