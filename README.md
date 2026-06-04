@@ -43,7 +43,7 @@ A multi-use calculator, which can run right in the terminal with ease
 2. Open your terminal or command prompt.
 3. Navigate to the folder where the script is saved and run:
    ```bash
-   python monster_game.py
+   textgame.py
 
 
 ## How to Run Multi-Use Calculator
@@ -52,7 +52,7 @@ A multi-use calculator, which can run right in the terminal with ease
 2. Open your terminal or command prompt
 3. Navigate to the folder where the script is saved and run:
    ```bash
-   `python all_type_calculator.py`
+   python all_type_calculator.py
 
    
 ## Personal Statement
