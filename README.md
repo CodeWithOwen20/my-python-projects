@@ -1,10 +1,10 @@
-# 🚀 My Python Learning Journey
+# My Python Learning Journey
 
 Welcome to my portfolio! This is my first central repository, where I document my independent computer science journey, storing the terminal applications and systems I build while teaching myself Python programming from scratch.
 
 
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 ### 1. Monster Game V1
 *A text-based RPG combat engine built to run natively within the terminal.*
@@ -53,7 +53,7 @@ Welcome to my portfolio! This is my first central repository, where I document m
 
 
 
-## 💻 How To Run These Projects
+## How To Run These Projects
 
 ### Prerequisites
 Ensure you have **Python 3** installed on your pc/laptop. You can verify this by opening your command prompt and running `python --version`.
